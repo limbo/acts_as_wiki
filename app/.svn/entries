@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="177"
+   name=""
+   committed-date="2006-08-17T00:37:21.409716Z"
+   url="http://hellonline.com/svn/hellonline/acts_as_wiki/app"
+   kind="dir"
+   uuid="5a5fcaf8-3dfe-0310-9115-a150750375d7"
+   repos="http://hellonline.com/svn/hellonline"
+   revision="177"/>
+<entry
+   name="helpers"
+   kind="dir"/>
+<entry
+   name="models"
+   kind="dir"/>
+<entry
+   name="controllers"
+   kind="dir"/>
+<entry
+   name="views"
+   kind="dir"/>
+</wc-entries>

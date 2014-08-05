@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="177"
+   name=""
+   committed-date="2006-08-17T00:37:21.409716Z"
+   url="http://hellonline.com/svn/hellonline/acts_as_wiki/app/views/revisions"
+   kind="dir"
+   uuid="5a5fcaf8-3dfe-0310-9115-a150750375d7"
+   repos="http://hellonline.com/svn/hellonline"
+   revision="177"/>
+<entry
+   committed-rev="177"
+   name="show.rhtml"
+   text-time="2006-08-17T07:39:57.015625Z"
+   committed-date="2006-08-17T00:37:21.409716Z"
+   checksum="364cb25e8773b344a70ab5514f75b8b9"
+   kind="file"
+   prop-time="2006-08-17T07:39:56.984375Z"/>
+<entry
+   committed-rev="177"
+   name="history.rhtml"
+   text-time="2006-08-17T07:39:57.031250Z"
+   committed-date="2006-08-17T00:37:21.409716Z"
+   checksum="abaa7fd65f4b18440d68bda60fbcc219"
+   kind="file"
+   prop-time="2006-08-17T07:39:56.984375Z"/>
+<entry
+   committed-rev="177"
+   name="diff.rhtml"
+   text-time="2006-08-17T07:39:57.031250Z"
+   committed-date="2006-08-17T00:37:21.409716Z"
+   checksum="9e60365357c18db334f2a7f3a2780240"
+   kind="file"
+   prop-time="2006-08-17T07:39:57.000000Z"/>
+</wc-entries>
